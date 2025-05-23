@@ -15,19 +15,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "image",
-            "attrs": {
-              "src": "https://example.com/your-image.png",
-              "alt": "Example Image",
-              "title": "An example image"
-            }
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-05-23T12:34:59.859Z"
+  "online_content_time": "2025-05-23T12:35:17.931Z"
 }
