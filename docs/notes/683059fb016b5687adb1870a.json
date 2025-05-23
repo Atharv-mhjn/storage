@@ -32,21 +32,13 @@
                 ]
               }
             ]
-          },
-          {
-            "type": "taskItem",
-            "attrs": {
-              "checked": false
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-05-23T11:21:03.879Z"
+  "online_content_time": "2025-05-23T11:21:17.983Z"
 }
