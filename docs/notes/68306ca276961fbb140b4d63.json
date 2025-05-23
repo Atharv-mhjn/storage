@@ -24,21 +24,15 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "image",
-            "attrs": {
-              "src": "https://example.com/your-image.png",
-              "alt": "Example Image",
-              "title": "An example image",
-              "width": null,
-              "height": null
-            }
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-05-23T12:40:32.627Z"
+  "online_content_time": "2025-05-23T12:41:45.131Z"
 }
