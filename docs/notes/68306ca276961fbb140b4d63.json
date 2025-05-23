@@ -18,16 +18,27 @@
         "type": "paragraph",
         "content": [
           {
+            "type": "text",
+            "text": "Adding new text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
             "type": "image",
             "attrs": {
               "src": "https://example.com/your-image.png",
               "alt": "Example Image",
-              "title": "An example image"
+              "title": "An example image",
+              "width": null,
+              "height": null
             }
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-05-23T12:40:03.371Z"
+  "online_content_time": "2025-05-23T12:40:32.627Z"
 }
