@@ -1,0 +1,33 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Editing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "image",
+            "attrs": {
+              "src": "https://example.com/your-image.png",
+              "alt": "Example Image",
+              "title": "An example image"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-05-23T12:40:03.371Z"
+}
