@@ -18,13 +18,31 @@
           {
             "type": "text",
             "text": "this is page 2"
-          },
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
           {
             "type": "hardBreak"
           }
         ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/Atharv-mhjn/storage/main/docs/image/image.png-1748255728367",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-05-26T10:31:21.363Z"
+  "online_content_time": "2025-05-26T10:35:41.640Z"
 }
