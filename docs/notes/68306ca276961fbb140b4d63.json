@@ -27,9 +27,12 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "codeBlock",
+        "attrs": {
+          "language": "typescriptreact"
+        }
       }
     ]
   },
-  "online_content_time": "2025-05-26T05:50:35.155Z"
+  "online_content_time": "2025-05-26T05:53:57.670Z"
 }
