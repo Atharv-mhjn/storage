@@ -36,7 +36,14 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/Atharv-mhjn/storage/main/image.png-1748253924695",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       },
       {
         "type": "paragraph"
@@ -55,5 +62,5 @@
       }
     ]
   },
-  "online_content_time": "2025-05-26T07:26:18.464Z"
+  "online_content_time": "2025-05-26T10:05:37.389Z"
 }
