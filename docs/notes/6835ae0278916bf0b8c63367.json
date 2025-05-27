@@ -31,6 +31,16 @@
     {
       "type": "image",
       "attrs": {
+        "src": "https://raw.githubusercontent.com/Atharv-mhjn/storage/main/docs/image/Screenshot 2025-05-21 at 7.27.38 PM.png-bc5cf0ad-953e-484e-966c-c56250cc6465",
+        "alt": null,
+        "title": null,
+        "width": null,
+        "height": null
+      }
+    },
+    {
+      "type": "image",
+      "attrs": {
         "src": "https://raw.githubusercontent.com/Atharv-mhjn/storage/main/docs/image/image.png-ea97f469-f2a9-43ae-8c22-2147b6673b91",
         "alt": null,
         "title": null,
