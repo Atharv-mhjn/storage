@@ -22,15 +22,19 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/Atharv-mhjn/storage/main/docs/image/image.png-cbbb62c0-aae1-40bd-a9e4-0d5fb990d75e",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-05-27T06:10:27.058Z"
+  "online_content_time": "2025-05-27T06:10:58.840Z"
 }
