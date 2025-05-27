@@ -22,6 +22,26 @@
           "text": "THIS IS ATHARV PAGE"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "href": "mailto:tarun.dubey@betaque.com",
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+              }
+            }
+          ],
+          "text": "tarun.dubey@betaque.com"
+        }
+      ]
     }
   ]
 }
