@@ -19,7 +19,16 @@
         },
         {
           "type": "text",
-          "text": "this is Page second "
+          "text": "this is Page second >"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Made by Atharv "
         }
       ]
     }
